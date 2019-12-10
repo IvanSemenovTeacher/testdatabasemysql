@@ -1,0 +1,8 @@
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\obj\Debug\testbd.csprojResolveAssemblyReference.cache
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\obj\Debug\testbd.MainForm.resources
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\obj\Debug\testbd.csproj.GenerateResource.Cache
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\bin\Debug\testbd.exe.config
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\bin\Debug\testbd.exe
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\bin\Debug\testbd.pdb
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\obj\Debug\testbd.exe
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testbd\testbd\obj\Debug\testbd.pdb
